@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+navbar{
+    background-color: white;
+}
+.nav-link{
+    color: black;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration: none;
+}
+.nav-link:hover{
+    color: white;
+    background-color:#E05A8D;
+}
+#acceuil{
+    background-color: #E0D1CB;
+}
+.imgs{
+    width: 545px;
+}
+.h2{
+    color: #E05A8D;
+   
+    font-family:'Sigmar', cursive;
+    font-size: 2.5rem;
+}
+.p1{
+    font-size: 2.8rem;
+    color: white;
+    font-family:'Lobster', cursive;;
+}
+.btn{
+    border: 2px solid black;
+    border-radius: 20%;
+}
+.btn:hover{
+    background-color: #E05A8D;
+    color: white;
+}
+h3{
+    font-family:'Pacifico';
+}
+.H2{
+    color: #E05A8D;
+    font-size: 2.5rem;
+    font-family:'Sigmar', cursive;
+    text-align: center;
+    text-decoration: underline;
+}
+.baba{
+    background-color:#E0D1CB;
+}
+h6{
+    font-size: 1.6rem;
+    letter-spacing: 1px;
+}
+.il{
+    color: #E05A8D;
+}
+.footer{
+    background-color:#E0D1CB;
+}
+.fa-brands{
+    color: #E05A8D;
+    font-size: 35px;
+    margin: 1%;
+}
